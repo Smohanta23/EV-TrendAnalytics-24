@@ -1,6 +1,6 @@
 # EV Trend Data Analytics
 
-![EV Trend Data Analytics Dashboard](https://github.com/yourusername/yourrepository/blob/main/dashboard.png)
+![EV Trend Data Analytics Dashboard](https://github.com/Smohanta23/EV-TrendAnalytics-24/blob/master/dashboard.png)
 
 This Tableau project provides a comprehensive analysis of the Electric Vehicle (EV) market, leveraging a real-world dataset updated until May 2024. The data includes sensitive and accurate entries which have undergone thorough cleaning and feature engineering processes to ensure reliability and relevance. 
 
